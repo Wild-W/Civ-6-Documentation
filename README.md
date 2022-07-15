@@ -1,4 +1,4 @@
-#Civ 6 Documentation
+# Civ 6 Documentation
 Go [here](https://htmlpreview.github.io/?https://github.com/wildweegee101/Civ-6-Documentation/blob/main/Civ6Docs.html) to view the documentation
 
 Alternatively you can view it as an `md` file [here]()
