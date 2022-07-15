@@ -1,7 +1,7 @@
 # Civ 6 Documentation
 Go [here](https://htmlpreview.github.io/?https://github.com/wildweegee101/Civ-6-Documentation/blob/main/Civ6Docs.html) to view the documentation
 
-Alternatively you can view it in `md` file format [here](https://github.com/wildweegee101/Civ-6-Documentation/blob/main/Civ6Docs.md) (a little broken in places)
+Alternatively you can view it in `md` file format [here](https://github.com/wildweegee101/Civ-6-Documentation/blob/main/Civ6Docs.md) (format will be a little broken in places)
 ## Sid Meier's Civilization VI Development Tools
 
 ### Tools included
